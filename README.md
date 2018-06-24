@@ -15,5 +15,5 @@ We used a dataset for news report. You can see the result of generated topics fo
 
 <figure>
   <img src = "./assets/result.png">
-  <figcaption>Fig.2 - The output result for generated topics. <a href="https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext"> (image taken here) </a> </figcaption>
+  <figcaption>Fig.2 - The output result for generated topics. </figcaption>
 </figure>
