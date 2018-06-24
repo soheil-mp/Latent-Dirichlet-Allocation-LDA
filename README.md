@@ -4,7 +4,7 @@ LDA is used to classify texts to a specific topic. It builds topics per document
 
 <figure>
   <img src = "./assets/LDA.jpg">
-  <figcaption>Fig.1 - The intuitions behind latent Dirichlet allocation. <a href="https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext">(image taken here)<\a> </figcaption>
+  <figcaption>Fig.1 - The intuitions behind latent Dirichlet allocation. <a href="https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext"> (image taken here) <\a> </figcaption>
 </figure>
 
 <hr>
@@ -15,5 +15,5 @@ We used a dataset for news report. You can see the result of generated topics fo
 
 <figure>
   <img src = "./assets/result.png">
-  <figcaption>Fig.2 - The output result for generated topics. <a href="https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext">(image taken here)<\a> </figcaption>
+  <figcaption>Fig.2 - The output result for generated topics. <a href="https://cacm.acm.org/magazines/2012/4/147361-probabilistic-topic-models/fulltext"> (image taken here) <\a> </figcaption>
 </figure>
